@@ -2,3 +2,4 @@
 Mod Theme for Opera GX Based on Gruvbox
 
 ![/Arch-Gruvbox-Dark.png](Arch-Gruvbox-Dark.png)
+![/Arch-Gruvbox-Light.png](Arch-Gruvbox-Light.png)
