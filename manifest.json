@@ -104,7 +104,7 @@
                     ],
                     "matches":
                     [
-                        "https://*.opera.com/*"
+                        "https://*"
                     ]
                 }
             ],
