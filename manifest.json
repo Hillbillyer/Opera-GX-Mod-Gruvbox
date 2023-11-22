@@ -9,7 +9,7 @@
     {
         "512": "icon_512.png"
     },
-    "manifest_version": 3.1a,
+    "manifest_version": 3.1,
     "mod":
     {
         "license": "license.txt",
