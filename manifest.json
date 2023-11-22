@@ -9,7 +9,7 @@
     {
         "512": "icon_512.png"
     },
-    "manifest_version": 3,
+    "manifest_version": 3.1a,
     "mod":
     {
         "license": "license.txt",
@@ -108,10 +108,7 @@
                     ]
                 }
             ],
-            // "shaders":
-            // {
 
-            // },
             "theme":
             {
                 "dark":
